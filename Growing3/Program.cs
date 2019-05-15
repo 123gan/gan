@@ -20,7 +20,7 @@ namespace Growing3
 
         public static void print()
         {
-            WriteLine("th");
+            WriteLine("ganzhenhao");
         }
     }
 }
