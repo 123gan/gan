@@ -1,0 +1,7 @@
+E:\MyCode\Growing3\Growing3\bin\Debug\Growing3.exe.config
+E:\MyCode\Growing3\Growing3\bin\Debug\Growing3.exe
+E:\MyCode\Growing3\Growing3\bin\Debug\Growing3.pdb
+E:\MyCode\Growing3\Growing3\obj\Debug\Growing3.csprojAssemblyReference.cache
+E:\MyCode\Growing3\Growing3\obj\Debug\Growing3.csproj.CoreCompileInputs.cache
+E:\MyCode\Growing3\Growing3\obj\Debug\Growing3.exe
+E:\MyCode\Growing3\Growing3\obj\Debug\Growing3.pdb
