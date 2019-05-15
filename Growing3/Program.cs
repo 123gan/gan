@@ -14,7 +14,13 @@ namespace Growing3
         static void Main(string[] args)
         {
             WriteLine("gan");
+            print();
             ReadLine();
+        }
+
+        public static void print()
+        {
+            WriteLine("th");
         }
     }
 }
